@@ -1,0 +1,1 @@
+print("El valor de __name__ es:", __name__)
